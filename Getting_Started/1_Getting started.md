@@ -1,0 +1,5 @@
+- [Considerations for large clusters](3_Best_pratices/3_Best_pratices/3_1_Considerations_for_large_clusters.md)
+- [Running in multiple zones](3_Best_pratices/3_Best_pratices/3_2_Running_in_multiple_zones.md)
+- [Validate node setup](3_Best_pratices/3_Best_pratices/3_3_Validate_node_setup.md)
+- [Enforcing Pod Security Standards](3_Best_pratices/3_Best_pratices/3_4_Enforcing_Pod_Security_Standards.md)
+- [PKI certificates and requirements](3_Best_pratices/3_Best_pratices/3_5_PKI_certificates_and_requirements.md)
