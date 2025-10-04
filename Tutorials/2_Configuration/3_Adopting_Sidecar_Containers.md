@@ -1,0 +1,1 @@
+# Adopting Sidecar Containers
